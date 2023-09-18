@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Annotating Film Form in Meshes of the Afternoon " ] },
+    "summary": { "en": [ "In-class workshop annotating specific scenes from Meshes of the Afternoon. The \r\nelement of film form I choose to make observations on is subjective camera angles.  Specifically the way Maya Deren makes use of camera angles to frame important parts of each scene to show a clearer picture and deeper meaning in the film. " ] },
+    "items": [
+    ]
+}
